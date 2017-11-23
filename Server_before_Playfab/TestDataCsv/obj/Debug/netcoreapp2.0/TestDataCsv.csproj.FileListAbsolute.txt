@@ -1,0 +1,11 @@
+D:\Git\haps\Server\TestDataCsv\bin\Debug\netcoreapp2.0\TestDataCsv.deps.json
+D:\Git\haps\Server\TestDataCsv\bin\Debug\netcoreapp2.0\TestDataCsv.runtimeconfig.json
+D:\Git\haps\Server\TestDataCsv\bin\Debug\netcoreapp2.0\TestDataCsv.runtimeconfig.dev.json
+D:\Git\haps\Server\TestDataCsv\bin\Debug\netcoreapp2.0\TestDataCsv.dll
+D:\Git\haps\Server\TestDataCsv\bin\Debug\netcoreapp2.0\TestDataCsv.pdb
+D:\Git\haps\Server\TestDataCsv\obj\Debug\netcoreapp2.0\TestDataCsv.csprojResolveAssemblyReference.cache
+D:\Git\haps\Server\TestDataCsv\obj\Debug\netcoreapp2.0\TestDataCsv.csproj.CoreCompileInputs.cache
+D:\Git\haps\Server\TestDataCsv\obj\Debug\netcoreapp2.0\TestDataCsv.AssemblyInfoInputs.cache
+D:\Git\haps\Server\TestDataCsv\obj\Debug\netcoreapp2.0\TestDataCsv.AssemblyInfo.cs
+D:\Git\haps\Server\TestDataCsv\obj\Debug\netcoreapp2.0\TestDataCsv.dll
+D:\Git\haps\Server\TestDataCsv\obj\Debug\netcoreapp2.0\TestDataCsv.pdb

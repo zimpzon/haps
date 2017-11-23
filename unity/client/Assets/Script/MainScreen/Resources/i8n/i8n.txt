@@ -1,0 +1,4 @@
+key	dk	eng
+@SPIN	Kør	Spin
+@NUDGE	Puf	Nudge
+@HOLD	Hold	Hold

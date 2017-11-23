@@ -1,0 +1,7 @@
+{
+"donees":"[\n{\"id\":1000, \"name\":\"donee1\", \"link\":\"\"},\n{\"id\":1001, \"name\":\"donee2\", \"link\":\"\"},\n{\"id\":1002, \"name\":\"donee3\", \"link\":\"\"},\n{\"id\":1003, \"name\":\"donee4\", \"link\":\"\"}\n]",
+"titles":"[\n{\"id\":100, \"pre\":\"Nybegynder\", \"post\":\"\", \"levelRequirement\":5 },\n{\"id\":101, \"pre\":\"\", \"post\":\", Mother of Dragons\", \"levelRequirement\":6 },\n{\"id\":102, \"pre\":\"Dr.\", \"post\":\"\", \"levelRequirement\":7 },\n{\"id\":103, \"pre\":\"Frøken\", \"post\":\"\", \"levelRequirement\":8 }\n]\n",
+"externalDistribution":"[\n{\"id\":\"C0\", \"P\":0.6},\n{\"id\":\"C1\", \"P\":0.5},\n{\"id\":\"C2\", \"P\":0.4},\n{\"id\":\"C3\", \"P\":0.3},\n{\"id\":\"C4\", \"P\":0.2},\n{\"id\":\"C5\", \"P\":0.1},\n{\"id\":\"TI\", \"P\":0.4},\n{\"id\":\"JP\", \"P\":0.05},\n{\"id\":\"KR\", \"P\":0.02}\n]\n",
+"gameplayFlags":"{\n\"enableAutoSpin\": true, \n\"clearHoldOnSpin\": true,\n\"helpLastLevel\": 10\n}\n"
+}
+

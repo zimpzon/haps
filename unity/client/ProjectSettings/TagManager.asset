@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ButtonColor
+  - TextColor
+  - Effects
+  - HintButton
+  - LockButton0
+  - LockButton1
+  - LockButton2
+  - SpinButton
+  - NudgeButton
+  - SpinWheel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Fruit
+  - Overlay
+  - 3D
+  - Pop
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GroundLayer
+    uniqueID: 2378212795
+    locked: 0
+  - name: Pets
+    uniqueID: 1556125205
+    locked: 0
+  - name: Fruit
+    uniqueID: 934416247
+    locked: 0
+  - name: VFX_Main
+    uniqueID: 2167706505
+    locked: 0
+  - name: Modal
+    uniqueID: 3547058827
+    locked: 0
+  - name: Busy
+    uniqueID: 2269538777
+    locked: 0
